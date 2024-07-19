@@ -38,3 +38,9 @@ This shows that the model has a 91% accuracy.
 **Conclusion:**
 
 This project successfully demonstrates the use of a CNN for classifying thermal images of feet, achieving an accuracy of 91%. This automated approach can potentially aid in early detection and monitoring of diabetic foot conditions, providing valuable support in medical diagnostics.
+
+
+
+**Dataset:**
+
+The dataset used for the project: https://www.kaggle.com/datasets/vuppalaadithyasairam/thermography-images-of-diabetic-foot
