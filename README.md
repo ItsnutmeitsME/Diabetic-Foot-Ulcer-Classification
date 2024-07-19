@@ -1,12 +1,12 @@
 # Diabetic-Foot-Ulcer-Classification
 
-**Overview:
-**
+**Overview:**
+
 This project involves the development and implementation of a Convolutional Neural Network (CNN) to classify thermal images of feet from individuals with and without diabetes. Diabetes can manifest in various ways, including changes in foot temperature, which can be captured through thermal imaging. The goal of this project is to automate the classification process to aid in early diagnosis and monitoring of diabetic foot conditions.
 
 
-**Dataset:
-**
+**Dataset:**
+
 The dataset consists of thermal images of feet, categorized into two classes:
 
 	•	Control Group
@@ -15,8 +15,8 @@ The dataset consists of thermal images of feet, categorized into two classes:
 The dataset is divided into training and validation sets, with images resized to 64x64 pixels for the CNN model.
 
 
-**Model Architecture:
-**
+**Model Architecture:**
+
 The CNN model used in this project comprises the following layers:
 
 	1.	Convolutional Layers: Extract features from the input images.
@@ -25,6 +25,7 @@ The CNN model used in this project comprises the following layers:
 	4.	Dense Layers: Perform classification based on the extracted features.
 
 The model was trained using the Adam optimizer and binary cross-entropy loss function.
+
 
 **Evaluation:**
 
